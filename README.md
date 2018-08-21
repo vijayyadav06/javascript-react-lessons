@@ -1,4 +1,4 @@
-# javascript-react-lessons
+# javascript-react-redux-lessons
 Running inventory of JS and Reactjs tutorials
 
 1. https://github.com/Microsoft/TechnicalCommunityContent/tree/master/Web%20Frameworks/React
