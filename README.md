@@ -8,4 +8,5 @@ Running inventory of JS and Reactjs tutorials
 Asynchrony: Now & Later – Learn to appreciate the subtleties of the asynchronous nature of client-side JS apps.
 Promises – Discover how the pitfalls of callbacks can be avoided by harnessing the power of promises.
 5. https://github.com/ReactTraining/react-workshop
+6. https://github.com/FortechRomania/react-redux-complete-example
 
