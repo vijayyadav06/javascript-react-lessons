@@ -10,3 +10,7 @@ Promises – Discover how the pitfalls of callbacks can be avoided by harnessing
 5. https://github.com/ReactTraining/react-workshop
 6. https://github.com/FortechRomania/react-redux-complete-example
 
+## Other interesting articles
+1. [First progressive webapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+2. [Spring data with React](https://github.com/spring-guides/tut-react-and-spring-data-rest)
+
