@@ -15,6 +15,7 @@ Running inventory of JS and Reactjs tutorials
 12. [Beginners guide to React js](https://blog.usejournal.com/a-beginners-guide-to-react-36b19943d58f)
 13. [React HOC](https://tech.io/playgrounds/8595/reactjs-higher-order-components-tutorial)
 14. [React training](https://reacttraining.com/) and github workshoop (https://github.com/ReactTraining/react-workshop)
+15. [React handbook - imp](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 
 ## Other interesting articles on ReactJs and Redux
 1. [First progressive webapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
@@ -33,4 +34,3 @@ Promises – Discover how the pitfalls of callbacks can be avoided by harnessing
 5. [ES6 Arrow functions](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26) 
 6. [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), Using promise http://ccoenraets.github.io/es6-tutorial/promises/
 7. [Standard built-in objects in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Control_abstraction_objects)
-
