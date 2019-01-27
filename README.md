@@ -34,3 +34,4 @@ Promises – Discover how the pitfalls of callbacks can be avoided by harnessing
 5. [ES6 Arrow functions](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26) 
 6. [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), Using promise http://ccoenraets.github.io/es6-tutorial/promises/
 7. [Standard built-in objects in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Control_abstraction_objects)
+8. ES6 - https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb
