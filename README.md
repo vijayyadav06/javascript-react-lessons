@@ -23,6 +23,7 @@ Running inventory of JS and Reactjs tutorials
 3. [Understanding unidirectional data flow in React](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
 4. [Important lessons learned after a year of working with React](https://medium.freecodecamp.org/mindset-lessons-from-a-year-with-react-1de862421981)
 5. [Getting started with Redux - egghead- imp by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+6. [ReactJS and D3 libraries](https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755)
 
 ## Javascript concepts
 1. [Client-side vs server-side rendering, why it's not al black and white](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d). and [Client and Server side rendering in React apps](https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87) 
