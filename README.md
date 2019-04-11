@@ -16,6 +16,7 @@ Running inventory of JS and Reactjs tutorials
 13. [React HOC](https://tech.io/playgrounds/8595/reactjs-higher-order-components-tutorial)
 14. [React training](https://reacttraining.com/) and github workshoop (https://github.com/ReactTraining/react-workshop)
 15. [React handbook - imp](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+16. [Dan Abramov - React tutotials - imp](https://overreacted.io/)
 
 ## Other interesting articles on ReactJs and Redux
 1. [First progressive webapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
