@@ -40,3 +40,5 @@ Promises – Discover how the pitfalls of callbacks can be avoided by harnessing
 6. [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), Using promise http://ccoenraets.github.io/es6-tutorial/promises/
 7. [Standard built-in objects in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Control_abstraction_objects)
 8. ES6 - https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb
+9. JS Ninja - https://github.com/vijayyadav06/javascript-react-lessons/blob/master/jsninja2.pdf
+10. JS interview questions -https://github.com/vijayyadav06/javascript-react-lessons/blob/master/Slay%20the%20JavaScript%20Interview.pdf
